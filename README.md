@@ -10,7 +10,7 @@ Go see our [YouTube channel](https://www.youtube.com/channel/UC8wFqCVts-0Xze2qji
 
 ## Reference
 
-*Tractable Approximate Gaussian Inference for Bayesian Neural Networks*<br/>[Nguyen, L.H.](https://www.polymtl.ca/cgm/jagoulet/Site/Goulet_web_page_LHNGUYEN.html), and [Goulet, J.-A.](https://www.polymtl.ca/cgm/jagoulet/Site/Goulet_web_page_MAIN.html) <br/>Journal of Machine Learning Research, 2022, 21-0758, Volume 23, Number 251, pp. 1-33. , [[JMLR](https://jmlr.org/papers/v23/21-0758.html)]
+*Tractable Approximate Gaussian Inference for Bayesian Neural Networks*<br/>[Nguyen, L.H.](https://www.polymtl.ca/cgm/jagoulet/Site/Goulet_web_page_LHNGUYEN.html), and [Goulet, J.-A.](https://www.polymtl.ca/cgm/jagoulet/Site/Goulet_web_page_MAIN.html) <br/>Journal of Machine Learning Research, 2022, 21-0758, Volume 23, pp. 1-33. , [[JMLR](https://jmlr.org/papers/v23/21-0758.html)]
 
 ## Installation
 
